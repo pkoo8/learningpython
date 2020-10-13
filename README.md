@@ -9,6 +9,6 @@ Learning Python 45 mins a day
 - Cheat Sheet  : [Sheet1](https://guides.github.com/features/mastering-markdown/) [Sheet2](https://www.markdownguide.org/cheat-sheet/)
 
 ## Daily Progress
-1. [Day - 01](/Day01)
+1. [Day - 01](/Day01/Day01.md)
 2. [Day - 02](/Day02)
 3. [Day - 03](/Day03)
