@@ -11,4 +11,4 @@ Learning Python 45 mins a day
 ## Daily Progress
 1. [Day - 01](/Day01/Day01.md)
 2. [Day - 02](/Day02/Day02.md)
-3. [Day - 03](/Day03)
+3. [Day - 03](/Day03/Day03.md)
